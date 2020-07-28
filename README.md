@@ -1,16 +1,14 @@
-### Hi there 👋
+  
+## Hi there 👋
 
-<!--
-**leandroportnoy/leandroportnoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Leandro! Built and worked a lot of projects (personal and company projects). I'm a lover techonology. On github (on reformulation process) you'll found many projects, pocs, experience and others programming stuffs. 
 
-Here are some ideas to get you started:
+Nowdays, I work at Claro S.A (Telecom Company) with React, React Native, Node and others javascript tech's. I am work with some native mobile technologies too like Android (Kotlin) e IOS (Swift) and essencially Java world too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### For more information about me, or curiosities, get in touch :)
+
+- instagram: instagram.com/leandroas83/
+- twitter: https://twitter.com/leandroas83
+- facebook: https://www.facebook.com/leandrofalando
+- email: leandroportnoy@gmail.com
+
